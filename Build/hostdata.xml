@@ -1,0 +1,14 @@
+<?xml version='1.0' ?>
+<data>
+     <globle>
+		<sandbox>1</sandbox>
+		<token>U2FsdGVkX19c0a2Dy2nso5Z4x4ZBNvkbyiTpa1Q9GQ8oIuNGoyDCk2LL8j96pvzT+Z+rQyrhov1QeUXBmqWG4BEmq4qTC/sNLlVo8JH0oTI=</token>
+		<id>107</id>
+		<usercall>https://gamepvt.com/api/v1/user</usercall>
+		<hiscorecall>https://gamepvt.com/api/v1/games/107/highscores</hiscorecall>
+		<scorecall>https://gamepvt.com/api/v1/save/score</scorecall>
+		<suggestcall>https://gamepvt.com/api/v1/suggest-games/107</suggestcall>
+		<key>22#bbtrm8814z5</key>
+		
+	</globle>
+</data>
